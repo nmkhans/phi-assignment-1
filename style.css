@@ -1,0 +1,28 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  width: 60px;
+}
+
+.primary-bg {
+  background: rgba(13, 202, 240, 1) !important;
+}
+
+.primary-text {
+  color: rgba(13, 202, 240, 1) !important;
+}
+
+.banner__title {
+  font-size: 50px;
+}
+
+.banner__img {
+  width: 400px;
+}
+
+.list-group-item {
+  background: #212529;
+  color: white;
+}
